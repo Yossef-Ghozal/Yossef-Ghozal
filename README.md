@@ -49,17 +49,6 @@ I am currently a student at **New Cairo Academy**, specializing in Flutter & Dar
   </a>
 </p>
 
----
-
-### 🏁 Codeforces Stats
-
-<p align="center">
-  <a href="https://codeforces.com/profile/Yossef-Ghozal">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Yossef-Ghozal&theme=github_dark&disable_animations=false" alt="Codeforces Stats" />
-  </a>
-</p>
-
-
 
 ---
 
