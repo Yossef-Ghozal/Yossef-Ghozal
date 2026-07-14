@@ -8,7 +8,7 @@
 I am currently a student at **New Cairo Academy**, specializing in Flutter & Dart Developer. I am building my career through an intensive learning path:
 
 - 🎓 **Flutter Diploma Trainee** @ Tharwat Academy
-- 🎓 **Flutter Developer Trainee** @ GDG Boootcamp Benha
+- 🎓 **Flutter Developer Trainee** @ GDG Boootcamp Benha 2026
 
 ---
 
